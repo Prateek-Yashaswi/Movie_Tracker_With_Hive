@@ -1,4 +1,4 @@
-# Movie Tracker With Hive
+# Movie Tracker With Hive 🎞
 
 This Is A Flutter Project That Was Made As An Assignment For The Yellow Class Company.
 
